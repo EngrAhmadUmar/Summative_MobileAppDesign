@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812670135842",
+    "project_id": "agro-pos-ac340",
+    "storage_bucket": "agro-pos-ac340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812670135842:android:194e75c2ed339f3826647b",
+        "android_client_info": {
+          "package_name": "co.mikie.micha.agro_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812670135842-gjg22fqcrap39gses27rb9ar9nss85ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskzuSpE9ik5vsuIlTz91RRfhlDgQ_UAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812670135842-gjg22fqcrap39gses27rb9ar9nss85ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
