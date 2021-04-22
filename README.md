@@ -1,16 +1,2 @@
-# agro_pos
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Generally, small-scale farmers find it difficult to keep notes of the progress with their farm sales. Most of them record a lot of losses due to the miscalculation of their transactions with customers. Therefore we came up with the Agri POS application. 
+The mobile POS app is an invoicing system to help the small-scale farmer (farmers who produce minimum farm product for market supply) to Streamline the sales process for his employees and customers. Agro POS provides the user with a cash register system that is truly mobile. Sales transactions can be executed at the Farm Gate level or at the customer’s premises. Agricultural produce sales are generally based on weight or volume, so having the invoice executed at the time of delivery is a perfect fit for both the farmer and the customer to avoid unnecessary disputes. The app will be able to generate an invoice if payment is not yet received or a receipt if payment has been received in cash or electronically. The farmer will also export his sales data periodically for accounting purposes.
